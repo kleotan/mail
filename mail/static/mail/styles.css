@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(230, 227, 223);
+}
+textarea {
+    min-height: 400px;
+}
+.form-control{
+    border: 4px inset rgb(224, 213, 213);
+}
+.view{
+    width: 100%;
+    border: 2px solid rgb(151, 102, 102);
+    padding: 20px;
+    background-color: rgb(172, 165, 165);
+}
+.archive_lst{
+    width: 100%;
+    border: 2px solid rgb(151, 102, 102);
+    padding: 20px;
+    background-color: rgb(172, 165, 165);
+}
+.but_read{
+    border: 4px outset white;
+    height: 40px;
+    width: 150px;
+    float: right;
+    position: relative;
+    margin-bottom: 30px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(77, 80, 83)
+}
+.but_archived{
+    border: 4px outset white;
+    height: 40px;
+    width: 150px;
+    float: right;
+    position: relative;
+    margin-bottom: 30px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(77, 80, 83)
+}
+.but_rearchived{
+    border: 4px outset white;
+    height: 40px;
+    width: 150px;
+    float: right;
+    position: relative;
+    margin-bottom: 30px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(77, 80, 83)
+
+}
+.sent_lst {    
+    width: 100%;
+    border: 2px solid rgb(151, 102, 102);
+    padding: 20px;
+    background-color: rgb(172, 165, 165);
+}
+span{
+    font-size: 12px;
+    text-align: right;
+}
+
+#letter-view{
+    width: 50%;
+    background-color: rgb(180, 167, 151);
+    padding: 20px;
+}
+
+.but_reply{
+    width: 100px;
+    padding: 5px;
+}
+
+.time{
+    font-size: 13px;
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.letter-subject{
+    color:rgb(119, 44, 44);
+    font-weight: bold;
+}
